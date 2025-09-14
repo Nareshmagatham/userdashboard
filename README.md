@@ -22,4 +22,4 @@ Styling: Custom Black & Gold theme
 Version Control: Git & GitHub
 
 
-![Alt image] (Screenshot 2025-09-14 195705.png)
+![Alt image] (./Screenshot 2025-09-14 195705.png)
